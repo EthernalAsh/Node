@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-13T15:16:23.831Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="mUO4D6BBYR56o8ImajBh" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T08:12:00.571Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="nx6P9WkiRkvah7WwMNwd" version="21.0.6" type="github">
   <diagram name="Pagina-1" id="GL-hhu96RCD5F2woMkXF">
     <mxGraphModel dx="3987" dy="3558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1729,6 +1729,18 @@
         </mxCell>
         <mxCell id="XoTrVkiUybTX8jjWBUQh-2289" value="&lt;h1&gt;Activity&lt;/h1&gt;&lt;p&gt;This is where the latest notifications are being placed, these are error messages from the program and notifications from the stream.&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="90" width="300" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="XoTrVkiUybTX8jjWBUQh-2290" value="" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="254.99" width="720" height="405.01" as="geometry" />
+        </mxCell>
+        <mxCell id="XoTrVkiUybTX8jjWBUQh-2291" value="&lt;h1&gt;Preview&lt;br&gt;&lt;/h1&gt;&lt;div&gt;This is where the user sees a preview of the selected node, in the bottom right the user can choose to switch it to the output source.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="254.99" width="720" height="405.01" as="geometry" />
+        </mxCell>
+        <mxCell id="XoTrVkiUybTX8jjWBUQh-2292" value="Output" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2390" y="630" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XoTrVkiUybTX8jjWBUQh-2293" value="Node" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="630" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
