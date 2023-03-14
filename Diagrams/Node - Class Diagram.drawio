@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-03-13T13:47:17.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="S7lmML2DxUWpl6WQO1IC" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T08:12:14.876Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="JAtKgMg5Fd3jGD5iGv4P" version="21.0.6" type="github">
   <diagram name="Pagina-1" id="Xe3zrvS7oMLQRyun1GLH">
-    <mxGraphModel dx="1313" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1909" dy="998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KyXux8qBghzRgFRJOnRF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="KyXux8qBghzRgFRJOnRF-5" target="KyXux8qBghzRgFRJOnRF-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KyXux8qBghzRgFRJOnRF-5" value="Position" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KyXux8qBghzRgFRJOnRF-5" value="Vector2" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="KyXux8qBghzRgFRJOnRF-6" value="+x: float" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="KyXux8qBghzRgFRJOnRF-5">
@@ -71,7 +71,7 @@
         <mxCell id="KyXux8qBghzRgFRJOnRF-11" value="Node" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="40" width="140" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="KyXux8qBghzRgFRJOnRF-12" value="+position: Position" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="KyXux8qBghzRgFRJOnRF-11">
+        <mxCell id="KyXux8qBghzRgFRJOnRF-12" value="+position: Vector2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="KyXux8qBghzRgFRJOnRF-11">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KyXux8qBghzRgFRJOnRF-22" value="+name: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="KyXux8qBghzRgFRJOnRF-11">
